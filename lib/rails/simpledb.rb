@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require_relative "simpledb/version"
+require_relative "table"
 
 module Rails
   module Simpledb
