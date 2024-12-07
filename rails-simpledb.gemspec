@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email = ["bigfive0907@gmail.com"]
 
   spec.summary = "rails-simpledb create figure of simple database schema for Rails."
-  spec.description = "TODO: Write a short summary, because RubyGems requires one."
+  spec.description = "rails-simpledb create figure of simple database schema for Rails."
   spec.homepage = "https://github.com/ChibaDaigo/rails-simpledb"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
